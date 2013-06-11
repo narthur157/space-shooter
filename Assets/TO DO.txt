@@ -1,0 +1,7 @@
+Random Astroid Speed [x]
+Random Astroid Size [x]
+Player Feedback []
+Website highscores []
+Solid blocks [x]
+Pickup for lives [x]
+Double shot [x]

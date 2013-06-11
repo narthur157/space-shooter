@@ -1,0 +1,34 @@
+Learning Objectives:
+	Intro to file management
+	Intro to game scripting
+	Intro to GUI Elements
+	Intro to input
+	Intro to events
+	Intro to scene loading
+
+Production Time:
+	Setup Time 10 minutes		5 minutes
+	Assets 45 minutes			1 hour
+	Player 30 minutes			2 hours
+	Enemy 20 minutes			1 hour
+	GUI 30 minutes				1 hour
+	Build 10 minutes			2 minutes
+	Review 10 minutes			5 minutes
+	
+High Concept:
+	A space shooter where the player must avoid asteroids that
+	try to destroy their ship.  Score as many points as you can by shooting
+	the astroids in a given amount of time
+
+Controls:
+	Arrow keys move the ship left, right, up, and down.
+	Spacebar shoots the player weapon
+	C creates a temporary shield for protection
+
+Mockup Assets:
+	Player ship
+	Astroid
+	Bullet
+	Shield
+	Blocks
+	Explosion
